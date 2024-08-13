@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="sawL6IHlOSuDcoycZX_R">
-    <mxGraphModel>
+    <mxGraphModel dx="1726" dy="594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JmL17hh1W1mV60O9JsOi-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="151" width="318" height="448" as="geometry" />
+        </mxCell>
+        <mxCell id="JmL17hh1W1mV60O9JsOi-37" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="468" y="345" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JmL17hh1W1mV60O9JsOi-39" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="345" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JmL17hh1W1mV60O9JsOi-44" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="191" y="161" width="67" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="JmL17hh1W1mV60O9JsOi-40" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="JmL17hh1W1mV60O9JsOi-44">
+          <mxGeometry width="67" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="JmL17hh1W1mV60O9JsOi-43" value="Login" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JmL17hh1W1mV60O9JsOi-44">
+          <mxGeometry x="3.5" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
